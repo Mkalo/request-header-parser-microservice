@@ -1,4 +1,4 @@
-# Boilerplate for Hono @ Vercel for freeCodeCamp Certification Projects
+# Request Header Parser Microservice
 
 ```
 yarn install
